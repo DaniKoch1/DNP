@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session2\Exercise7(Dictionary)\bin\Debug\netcoreapp2.1\Exercise7(Dictionary).deps.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise7(Dictionary)\bin\Debug\netcoreapp2.1\Exercise7(Dictionary).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise7(Dictionary)\bin\Debug\netcoreapp2.1\Exercise7(Dictionary).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise7(Dictionary)\bin\Debug\netcoreapp2.1\Exercise7(Dictionary).dll
+C:\Users\Dani\Desktop\DNP\Session2\Exercise7(Dictionary)\bin\Debug\netcoreapp2.1\Exercise7(Dictionary).pdb
+C:\Users\Dani\Desktop\DNP\Session2\Exercise7(Dictionary)\obj\Debug\netcoreapp2.1\Exercise7(Dictionary).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise7(Dictionary)\obj\Debug\netcoreapp2.1\Exercise7(Dictionary).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise7(Dictionary)\obj\Debug\netcoreapp2.1\Exercise7(Dictionary).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise7(Dictionary)\obj\Debug\netcoreapp2.1\Exercise7(Dictionary).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session2\Exercise7(Dictionary)\obj\Debug\netcoreapp2.1\Exercise7(Dictionary).dll
+C:\Users\Dani\Desktop\DNP\Session2\Exercise7(Dictionary)\obj\Debug\netcoreapp2.1\Exercise7(Dictionary).pdb

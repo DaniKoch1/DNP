@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session8\Ex6(asynch_method)\obj\Debug\netcoreapp2.1\Ex6(asynch_method).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session8\Ex6(asynch_method)\obj\Debug\netcoreapp2.1\Ex6(asynch_method).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session8\Ex6(asynch_method)\obj\Debug\netcoreapp2.1\Ex6(asynch_method).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session8\Ex6(asynch_method)\obj\Debug\netcoreapp2.1\Ex6(asynch_method).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session8\Ex6(asynch_method)\bin\Debug\netcoreapp2.1\Ex6(asynch_method).deps.json
+C:\Users\Dani\Desktop\DNP\Session8\Ex6(asynch_method)\bin\Debug\netcoreapp2.1\Ex6(asynch_method).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session8\Ex6(asynch_method)\bin\Debug\netcoreapp2.1\Ex6(asynch_method).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session8\Ex6(asynch_method)\bin\Debug\netcoreapp2.1\Ex6(asynch_method).dll
+C:\Users\Dani\Desktop\DNP\Session8\Ex6(asynch_method)\bin\Debug\netcoreapp2.1\Ex6(asynch_method).pdb
+C:\Users\Dani\Desktop\DNP\Session8\Ex6(asynch_method)\obj\Debug\netcoreapp2.1\Ex6(asynch_method).dll
+C:\Users\Dani\Desktop\DNP\Session8\Ex6(asynch_method)\obj\Debug\netcoreapp2.1\Ex6(asynch_method).pdb

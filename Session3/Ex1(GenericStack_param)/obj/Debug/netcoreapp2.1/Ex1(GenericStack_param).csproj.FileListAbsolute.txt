@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session3\Ex1(GenericStack_param)\bin\Debug\netcoreapp2.1\Ex1(GenericStack_param).deps.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex1(GenericStack_param)\bin\Debug\netcoreapp2.1\Ex1(GenericStack_param).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex1(GenericStack_param)\bin\Debug\netcoreapp2.1\Ex1(GenericStack_param).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex1(GenericStack_param)\bin\Debug\netcoreapp2.1\Ex1(GenericStack_param).dll
+C:\Users\Dani\Desktop\DNP\Session3\Ex1(GenericStack_param)\bin\Debug\netcoreapp2.1\Ex1(GenericStack_param).pdb
+C:\Users\Dani\Desktop\DNP\Session3\Ex1(GenericStack_param)\obj\Debug\netcoreapp2.1\Ex1(GenericStack_param).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex1(GenericStack_param)\obj\Debug\netcoreapp2.1\Ex1(GenericStack_param).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex1(GenericStack_param)\obj\Debug\netcoreapp2.1\Ex1(GenericStack_param).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex1(GenericStack_param)\obj\Debug\netcoreapp2.1\Ex1(GenericStack_param).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session3\Ex1(GenericStack_param)\obj\Debug\netcoreapp2.1\Ex1(GenericStack_param).dll
+C:\Users\Dani\Desktop\DNP\Session3\Ex1(GenericStack_param)\obj\Debug\netcoreapp2.1\Ex1(GenericStack_param).pdb

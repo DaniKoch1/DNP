@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session8\Ex5(download_content)\bin\Debug\netcoreapp2.1\Ex5(download_content).deps.json
+C:\Users\Dani\Desktop\DNP\Session8\Ex5(download_content)\bin\Debug\netcoreapp2.1\Ex5(download_content).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session8\Ex5(download_content)\bin\Debug\netcoreapp2.1\Ex5(download_content).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session8\Ex5(download_content)\bin\Debug\netcoreapp2.1\Ex5(download_content).dll
+C:\Users\Dani\Desktop\DNP\Session8\Ex5(download_content)\bin\Debug\netcoreapp2.1\Ex5(download_content).pdb
+C:\Users\Dani\Desktop\DNP\Session8\Ex5(download_content)\obj\Debug\netcoreapp2.1\Ex5(download_content).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session8\Ex5(download_content)\obj\Debug\netcoreapp2.1\Ex5(download_content).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session8\Ex5(download_content)\obj\Debug\netcoreapp2.1\Ex5(download_content).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session8\Ex5(download_content)\obj\Debug\netcoreapp2.1\Ex5(download_content).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session8\Ex5(download_content)\obj\Debug\netcoreapp2.1\Ex5(download_content).dll
+C:\Users\Dani\Desktop\DNP\Session8\Ex5(download_content)\obj\Debug\netcoreapp2.1\Ex5(download_content).pdb

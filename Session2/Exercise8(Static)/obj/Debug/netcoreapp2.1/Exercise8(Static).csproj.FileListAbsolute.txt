@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session2\Exercise8(Static)\bin\Debug\netcoreapp2.1\Exercise8(Static).deps.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise8(Static)\bin\Debug\netcoreapp2.1\Exercise8(Static).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise8(Static)\bin\Debug\netcoreapp2.1\Exercise8(Static).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise8(Static)\bin\Debug\netcoreapp2.1\Exercise8(Static).dll
+C:\Users\Dani\Desktop\DNP\Session2\Exercise8(Static)\bin\Debug\netcoreapp2.1\Exercise8(Static).pdb
+C:\Users\Dani\Desktop\DNP\Session2\Exercise8(Static)\obj\Debug\netcoreapp2.1\Exercise8(Static).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise8(Static)\obj\Debug\netcoreapp2.1\Exercise8(Static).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise8(Static)\obj\Debug\netcoreapp2.1\Exercise8(Static).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise8(Static)\obj\Debug\netcoreapp2.1\Exercise8(Static).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session2\Exercise8(Static)\obj\Debug\netcoreapp2.1\Exercise8(Static).dll
+C:\Users\Dani\Desktop\DNP\Session2\Exercise8(Static)\obj\Debug\netcoreapp2.1\Exercise8(Static).pdb

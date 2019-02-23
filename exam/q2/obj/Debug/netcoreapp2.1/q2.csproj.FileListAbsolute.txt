@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\exam\q2\obj\Debug\netcoreapp2.1\q2.csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\exam\q2\obj\Debug\netcoreapp2.1\q2.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\exam\q2\obj\Debug\netcoreapp2.1\q2.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\exam\q2\obj\Debug\netcoreapp2.1\q2.AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\exam\q2\bin\Debug\netcoreapp2.1\q2.deps.json
+C:\Users\Dani\Desktop\DNP\exam\q2\bin\Debug\netcoreapp2.1\q2.runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\exam\q2\bin\Debug\netcoreapp2.1\q2.runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\exam\q2\bin\Debug\netcoreapp2.1\q2.dll
+C:\Users\Dani\Desktop\DNP\exam\q2\bin\Debug\netcoreapp2.1\q2.pdb
+C:\Users\Dani\Desktop\DNP\exam\q2\obj\Debug\netcoreapp2.1\q2.dll
+C:\Users\Dani\Desktop\DNP\exam\q2\obj\Debug\netcoreapp2.1\q2.pdb

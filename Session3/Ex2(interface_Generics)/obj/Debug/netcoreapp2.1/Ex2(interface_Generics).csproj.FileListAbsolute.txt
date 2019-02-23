@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session3\Ex2(interface_Generics)\bin\Debug\netcoreapp2.1\Ex2(interface_Generics).deps.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex2(interface_Generics)\bin\Debug\netcoreapp2.1\Ex2(interface_Generics).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex2(interface_Generics)\bin\Debug\netcoreapp2.1\Ex2(interface_Generics).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex2(interface_Generics)\bin\Debug\netcoreapp2.1\Ex2(interface_Generics).dll
+C:\Users\Dani\Desktop\DNP\Session3\Ex2(interface_Generics)\bin\Debug\netcoreapp2.1\Ex2(interface_Generics).pdb
+C:\Users\Dani\Desktop\DNP\Session3\Ex2(interface_Generics)\obj\Debug\netcoreapp2.1\Ex2(interface_Generics).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex2(interface_Generics)\obj\Debug\netcoreapp2.1\Ex2(interface_Generics).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex2(interface_Generics)\obj\Debug\netcoreapp2.1\Ex2(interface_Generics).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex2(interface_Generics)\obj\Debug\netcoreapp2.1\Ex2(interface_Generics).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session3\Ex2(interface_Generics)\obj\Debug\netcoreapp2.1\Ex2(interface_Generics).dll
+C:\Users\Dani\Desktop\DNP\Session3\Ex2(interface_Generics)\obj\Debug\netcoreapp2.1\Ex2(interface_Generics).pdb

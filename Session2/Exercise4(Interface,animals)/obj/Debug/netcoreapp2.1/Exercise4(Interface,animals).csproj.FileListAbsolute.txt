@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session2\Exercise4(Interface,animals)\bin\Debug\netcoreapp2.1\Exercise4(Interface,animals).deps.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise4(Interface,animals)\bin\Debug\netcoreapp2.1\Exercise4(Interface,animals).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise4(Interface,animals)\bin\Debug\netcoreapp2.1\Exercise4(Interface,animals).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise4(Interface,animals)\bin\Debug\netcoreapp2.1\Exercise4(Interface,animals).dll
+C:\Users\Dani\Desktop\DNP\Session2\Exercise4(Interface,animals)\bin\Debug\netcoreapp2.1\Exercise4(Interface,animals).pdb
+C:\Users\Dani\Desktop\DNP\Session2\Exercise4(Interface,animals)\obj\Debug\netcoreapp2.1\Exercise4(Interface,animals).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise4(Interface,animals)\obj\Debug\netcoreapp2.1\Exercise4(Interface,animals).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise4(Interface,animals)\obj\Debug\netcoreapp2.1\Exercise4(Interface,animals).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise4(Interface,animals)\obj\Debug\netcoreapp2.1\Exercise4(Interface,animals).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session2\Exercise4(Interface,animals)\obj\Debug\netcoreapp2.1\Exercise4(Interface,animals).dll
+C:\Users\Dani\Desktop\DNP\Session2\Exercise4(Interface,animals)\obj\Debug\netcoreapp2.1\Exercise4(Interface,animals).pdb

@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session2\Exercise1(overwrite)\bin\Debug\netcoreapp2.1\Exercise1(overwrite).deps.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise1(overwrite)\bin\Debug\netcoreapp2.1\Exercise1(overwrite).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise1(overwrite)\bin\Debug\netcoreapp2.1\Exercise1(overwrite).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise1(overwrite)\bin\Debug\netcoreapp2.1\Exercise1(overwrite).dll
+C:\Users\Dani\Desktop\DNP\Session2\Exercise1(overwrite)\bin\Debug\netcoreapp2.1\Exercise1(overwrite).pdb
+C:\Users\Dani\Desktop\DNP\Session2\Exercise1(overwrite)\obj\Debug\netcoreapp2.1\Exercise1(overwrite).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise1(overwrite)\obj\Debug\netcoreapp2.1\Exercise1(overwrite).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise1(overwrite)\obj\Debug\netcoreapp2.1\Exercise1(overwrite).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise1(overwrite)\obj\Debug\netcoreapp2.1\Exercise1(overwrite).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session2\Exercise1(overwrite)\obj\Debug\netcoreapp2.1\Exercise1(overwrite).dll
+C:\Users\Dani\Desktop\DNP\Session2\Exercise1(overwrite)\obj\Debug\netcoreapp2.1\Exercise1(overwrite).pdb

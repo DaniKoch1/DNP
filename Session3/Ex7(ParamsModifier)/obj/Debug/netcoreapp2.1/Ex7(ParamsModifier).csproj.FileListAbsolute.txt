@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session3\Ex7(ParamsModifier)\bin\Debug\netcoreapp2.1\Ex7(ParamsModifier).deps.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex7(ParamsModifier)\bin\Debug\netcoreapp2.1\Ex7(ParamsModifier).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex7(ParamsModifier)\bin\Debug\netcoreapp2.1\Ex7(ParamsModifier).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex7(ParamsModifier)\bin\Debug\netcoreapp2.1\Ex7(ParamsModifier).dll
+C:\Users\Dani\Desktop\DNP\Session3\Ex7(ParamsModifier)\bin\Debug\netcoreapp2.1\Ex7(ParamsModifier).pdb
+C:\Users\Dani\Desktop\DNP\Session3\Ex7(ParamsModifier)\obj\Debug\netcoreapp2.1\Ex7(ParamsModifier).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex7(ParamsModifier)\obj\Debug\netcoreapp2.1\Ex7(ParamsModifier).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex7(ParamsModifier)\obj\Debug\netcoreapp2.1\Ex7(ParamsModifier).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex7(ParamsModifier)\obj\Debug\netcoreapp2.1\Ex7(ParamsModifier).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session3\Ex7(ParamsModifier)\obj\Debug\netcoreapp2.1\Ex7(ParamsModifier).dll
+C:\Users\Dani\Desktop\DNP\Session3\Ex7(ParamsModifier)\obj\Debug\netcoreapp2.1\Ex7(ParamsModifier).pdb

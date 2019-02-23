@@ -1,0 +1,56 @@
+To run your .NET apps via HTTPS on localhost, use the following command to trust the certificate that was installed alongside .NET Core:
+
+    dotnet dev-certs https --trust
+
+For more info on configuring HTTPS, see: https://docs.microsoft.com/en-us/aspnet/core/security/enforcing-ssl
+
+--
+
+Follow the below steps if you want to use the same dev certificate with your Java applications:
+
+1) Export cert+private key (.pfx file):
+
+    dotnet dev-certs https -ep "mypfxfile.pfx" -p password
+
+2) Generate keystore from .pfx:
+
+    keytool -importkeystore -srckeystore mypfxfile.pfx -srcstoretype pkcs12 -deststoretype pkcs12 -destkeystore C:\Users\USERNAME\.keystore -deststorepass password -destkeypass password
+
+    NB! Remember to change username.
+
+3) Copy the generated .keystore file to the root of the Java application folder.
+
+4) Set up https according to your framework. E.g. for Java Spring an "application.properties" file can be created in src/main/resources containing the keystore information:
+
+server.port: 8443
+server.ssl.key-store: .keystore
+server.ssl.key-store-password: password
+server.ssl.keyStoreType: PKCS12
+server.ssl.keyAlias: {cede3e13-ccc7-413e-8617-3dbfc0da1078}
+
+NB! Remember to change the keyAlias
+
+You can inspect the keystore properties using the "keytool -list" command, e.g.
+
+    keytool -list -v -keystore .keystore
+
+Your Java application should now be able to run via HTTPS on port 8443.
+
+--
+
+If your Java application is acting as a client towards one of your .NET applications, you also have to make your Java applications trust your .NET applications:
+
+1) Export the localhost certificate from chrome settings into a dotnet.cer file (settings > manage certificates > export...)
+
+    (alternatively you can use windows certification manager)
+
+2) Import the certificate into cacerts:
+	
+	- Determine the location of the cacerts file, e.g. C:\Program Files\Java\jdk1.8.0_191\jre\lib\security\cacerts.
+
+	- Import the dotnet.cer file into cacerts:
+
+		keytool -import -keystore "C:\Program Files\Java\jdk1.8.0_191\jre\lib\security\cacerts" -file dotnet.cer
+
+	NB! You will be asked for password which by default is 'changeit'
+

@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session2\Exercise6(Indexers)\bin\Debug\netcoreapp2.1\Exercise6(Indexers).deps.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise6(Indexers)\bin\Debug\netcoreapp2.1\Exercise6(Indexers).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise6(Indexers)\bin\Debug\netcoreapp2.1\Exercise6(Indexers).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise6(Indexers)\bin\Debug\netcoreapp2.1\Exercise6(Indexers).dll
+C:\Users\Dani\Desktop\DNP\Session2\Exercise6(Indexers)\bin\Debug\netcoreapp2.1\Exercise6(Indexers).pdb
+C:\Users\Dani\Desktop\DNP\Session2\Exercise6(Indexers)\obj\Debug\netcoreapp2.1\Exercise6(Indexers).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise6(Indexers)\obj\Debug\netcoreapp2.1\Exercise6(Indexers).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise6(Indexers)\obj\Debug\netcoreapp2.1\Exercise6(Indexers).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise6(Indexers)\obj\Debug\netcoreapp2.1\Exercise6(Indexers).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session2\Exercise6(Indexers)\obj\Debug\netcoreapp2.1\Exercise6(Indexers).dll
+C:\Users\Dani\Desktop\DNP\Session2\Exercise6(Indexers)\obj\Debug\netcoreapp2.1\Exercise6(Indexers).pdb

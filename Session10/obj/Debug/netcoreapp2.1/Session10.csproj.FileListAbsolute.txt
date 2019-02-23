@@ -1,0 +1,14 @@
+C:\Users\Dani\Desktop\DNP\Session10\bin\Debug\netcoreapp2.1\Session10.deps.json
+C:\Users\Dani\Desktop\DNP\Session10\bin\Debug\netcoreapp2.1\Session10.runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session10\bin\Debug\netcoreapp2.1\Session10.runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session10\bin\Debug\netcoreapp2.1\Session10.dll
+C:\Users\Dani\Desktop\DNP\Session10\bin\Debug\netcoreapp2.1\Session10.pdb
+C:\Users\Dani\Desktop\DNP\Session10\obj\Debug\netcoreapp2.1\Session10.csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session10\obj\Debug\netcoreapp2.1\Session10.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session10\obj\Debug\netcoreapp2.1\Session10.RazorAssemblyInfo.cache
+C:\Users\Dani\Desktop\DNP\Session10\obj\Debug\netcoreapp2.1\Session10.RazorAssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session10\obj\Debug\netcoreapp2.1\Session10.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session10\obj\Debug\netcoreapp2.1\Session10.AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session10\obj\Debug\netcoreapp2.1\Session10.RazorTargetAssemblyInfo.cache
+C:\Users\Dani\Desktop\DNP\Session10\obj\Debug\netcoreapp2.1\Session10.dll
+C:\Users\Dani\Desktop\DNP\Session10\obj\Debug\netcoreapp2.1\Session10.pdb

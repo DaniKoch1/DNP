@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Exercise7\bin\Debug\netcoreapp2.1\Exercise7.deps.json
+C:\Users\Dani\Desktop\DNP\Exercise7\bin\Debug\netcoreapp2.1\Exercise7.runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Exercise7\bin\Debug\netcoreapp2.1\Exercise7.runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Exercise7\bin\Debug\netcoreapp2.1\Exercise7.dll
+C:\Users\Dani\Desktop\DNP\Exercise7\bin\Debug\netcoreapp2.1\Exercise7.pdb
+C:\Users\Dani\Desktop\DNP\Exercise7\obj\Debug\netcoreapp2.1\Exercise7.csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Exercise7\obj\Debug\netcoreapp2.1\Exercise7.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Exercise7\obj\Debug\netcoreapp2.1\Exercise7.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Exercise7\obj\Debug\netcoreapp2.1\Exercise7.AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Exercise7\obj\Debug\netcoreapp2.1\Exercise7.dll
+C:\Users\Dani\Desktop\DNP\Exercise7\obj\Debug\netcoreapp2.1\Exercise7.pdb

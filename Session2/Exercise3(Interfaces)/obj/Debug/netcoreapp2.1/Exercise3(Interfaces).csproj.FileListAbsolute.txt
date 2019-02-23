@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session2\Exercise3(Interfaces)\bin\Debug\netcoreapp2.1\Exercise3(Interfaces).deps.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise3(Interfaces)\bin\Debug\netcoreapp2.1\Exercise3(Interfaces).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise3(Interfaces)\bin\Debug\netcoreapp2.1\Exercise3(Interfaces).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise3(Interfaces)\bin\Debug\netcoreapp2.1\Exercise3(Interfaces).dll
+C:\Users\Dani\Desktop\DNP\Session2\Exercise3(Interfaces)\bin\Debug\netcoreapp2.1\Exercise3(Interfaces).pdb
+C:\Users\Dani\Desktop\DNP\Session2\Exercise3(Interfaces)\obj\Debug\netcoreapp2.1\Exercise3(Interfaces).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise3(Interfaces)\obj\Debug\netcoreapp2.1\Exercise3(Interfaces).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise3(Interfaces)\obj\Debug\netcoreapp2.1\Exercise3(Interfaces).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise3(Interfaces)\obj\Debug\netcoreapp2.1\Exercise3(Interfaces).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session2\Exercise3(Interfaces)\obj\Debug\netcoreapp2.1\Exercise3(Interfaces).dll
+C:\Users\Dani\Desktop\DNP\Session2\Exercise3(Interfaces)\obj\Debug\netcoreapp2.1\Exercise3(Interfaces).pdb

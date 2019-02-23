@@ -1,0 +1,16 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Exam time!";
+}
+
+<h2>@ViewData["Title"]</h2>
+<h3>@Model.Message</h3>
+<ul>
+    @for (int i = 0; i < 5; i++)
+    {
+        <li>List item @i</li>
+    }
+</ul>
+<p>@Model.quote</p>
+@* <button type="submit" asp-action="GO">About page</button> *@

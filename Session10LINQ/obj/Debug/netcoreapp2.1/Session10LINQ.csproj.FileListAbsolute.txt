@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session10LINQ\bin\Debug\netcoreapp2.1\Session10LINQ.deps.json
+C:\Users\Dani\Desktop\DNP\Session10LINQ\bin\Debug\netcoreapp2.1\Session10LINQ.runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session10LINQ\bin\Debug\netcoreapp2.1\Session10LINQ.runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session10LINQ\bin\Debug\netcoreapp2.1\Session10LINQ.dll
+C:\Users\Dani\Desktop\DNP\Session10LINQ\bin\Debug\netcoreapp2.1\Session10LINQ.pdb
+C:\Users\Dani\Desktop\DNP\Session10LINQ\obj\Debug\netcoreapp2.1\Session10LINQ.csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session10LINQ\obj\Debug\netcoreapp2.1\Session10LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session10LINQ\obj\Debug\netcoreapp2.1\Session10LINQ.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session10LINQ\obj\Debug\netcoreapp2.1\Session10LINQ.AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session10LINQ\obj\Debug\netcoreapp2.1\Session10LINQ.dll
+C:\Users\Dani\Desktop\DNP\Session10LINQ\obj\Debug\netcoreapp2.1\Session10LINQ.pdb

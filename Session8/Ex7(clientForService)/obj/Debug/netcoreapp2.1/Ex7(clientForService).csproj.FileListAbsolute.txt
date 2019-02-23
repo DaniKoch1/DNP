@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session8\Ex7(clientForService)\bin\Debug\netcoreapp2.1\Ex7(clientForService).deps.json
+C:\Users\Dani\Desktop\DNP\Session8\Ex7(clientForService)\bin\Debug\netcoreapp2.1\Ex7(clientForService).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session8\Ex7(clientForService)\bin\Debug\netcoreapp2.1\Ex7(clientForService).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session8\Ex7(clientForService)\bin\Debug\netcoreapp2.1\Ex7(clientForService).dll
+C:\Users\Dani\Desktop\DNP\Session8\Ex7(clientForService)\bin\Debug\netcoreapp2.1\Ex7(clientForService).pdb
+C:\Users\Dani\Desktop\DNP\Session8\Ex7(clientForService)\obj\Debug\netcoreapp2.1\Ex7(clientForService).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session8\Ex7(clientForService)\obj\Debug\netcoreapp2.1\Ex7(clientForService).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session8\Ex7(clientForService)\obj\Debug\netcoreapp2.1\Ex7(clientForService).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session8\Ex7(clientForService)\obj\Debug\netcoreapp2.1\Ex7(clientForService).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session8\Ex7(clientForService)\obj\Debug\netcoreapp2.1\Ex7(clientForService).dll
+C:\Users\Dani\Desktop\DNP\Session8\Ex7(clientForService)\obj\Debug\netcoreapp2.1\Ex7(clientForService).pdb

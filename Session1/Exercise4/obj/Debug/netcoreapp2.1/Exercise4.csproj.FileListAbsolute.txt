@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Exercise4\bin\Debug\netcoreapp2.1\Exercise4.deps.json
+C:\Users\Dani\Desktop\DNP\Exercise4\bin\Debug\netcoreapp2.1\Exercise4.runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Exercise4\bin\Debug\netcoreapp2.1\Exercise4.runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Exercise4\bin\Debug\netcoreapp2.1\Exercise4.dll
+C:\Users\Dani\Desktop\DNP\Exercise4\bin\Debug\netcoreapp2.1\Exercise4.pdb
+C:\Users\Dani\Desktop\DNP\Exercise4\obj\Debug\netcoreapp2.1\Exercise4.csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Exercise4\obj\Debug\netcoreapp2.1\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Exercise4\obj\Debug\netcoreapp2.1\Exercise4.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Exercise4\obj\Debug\netcoreapp2.1\Exercise4.AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Exercise4\obj\Debug\netcoreapp2.1\Exercise4.dll
+C:\Users\Dani\Desktop\DNP\Exercise4\obj\Debug\netcoreapp2.1\Exercise4.pdb

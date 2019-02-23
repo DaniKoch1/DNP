@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.deps.json
+C:\Users\Dani\Desktop\DNP\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.dll
+C:\Users\Dani\Desktop\DNP\Exercise3\bin\Debug\netcoreapp2.1\Exercise3.pdb
+C:\Users\Dani\Desktop\DNP\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.dll
+C:\Users\Dani\Desktop\DNP\Exercise3\obj\Debug\netcoreapp2.1\Exercise3.pdb

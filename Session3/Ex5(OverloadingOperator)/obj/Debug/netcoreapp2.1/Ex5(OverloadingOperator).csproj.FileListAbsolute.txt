@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session3\Ex5(OverloadingOperator)\obj\Debug\netcoreapp2.1\Ex5(OverloadingOperator).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex5(OverloadingOperator)\obj\Debug\netcoreapp2.1\Ex5(OverloadingOperator).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex5(OverloadingOperator)\obj\Debug\netcoreapp2.1\Ex5(OverloadingOperator).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex5(OverloadingOperator)\obj\Debug\netcoreapp2.1\Ex5(OverloadingOperator).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session3\Ex5(OverloadingOperator)\bin\Debug\netcoreapp2.1\Ex5(OverloadingOperator).deps.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex5(OverloadingOperator)\bin\Debug\netcoreapp2.1\Ex5(OverloadingOperator).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex5(OverloadingOperator)\bin\Debug\netcoreapp2.1\Ex5(OverloadingOperator).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex5(OverloadingOperator)\bin\Debug\netcoreapp2.1\Ex5(OverloadingOperator).dll
+C:\Users\Dani\Desktop\DNP\Session3\Ex5(OverloadingOperator)\bin\Debug\netcoreapp2.1\Ex5(OverloadingOperator).pdb
+C:\Users\Dani\Desktop\DNP\Session3\Ex5(OverloadingOperator)\obj\Debug\netcoreapp2.1\Ex5(OverloadingOperator).dll
+C:\Users\Dani\Desktop\DNP\Session3\Ex5(OverloadingOperator)\obj\Debug\netcoreapp2.1\Ex5(OverloadingOperator).pdb

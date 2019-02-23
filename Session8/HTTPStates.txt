@@ -1,0 +1,10 @@
+1xx informational
+2xx succes
+3xx redirect
+4xx client error
+5xx server error
+METHODS:
+GET -get
+POST -send
+PUT -update
+DELETE -delete

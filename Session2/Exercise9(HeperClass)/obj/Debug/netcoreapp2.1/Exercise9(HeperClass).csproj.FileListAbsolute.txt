@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session2\Exercise9(HeperClass)\bin\Debug\netcoreapp2.1\Exercise9(HeperClass).deps.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise9(HeperClass)\bin\Debug\netcoreapp2.1\Exercise9(HeperClass).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise9(HeperClass)\bin\Debug\netcoreapp2.1\Exercise9(HeperClass).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session2\Exercise9(HeperClass)\bin\Debug\netcoreapp2.1\Exercise9(HeperClass).dll
+C:\Users\Dani\Desktop\DNP\Session2\Exercise9(HeperClass)\bin\Debug\netcoreapp2.1\Exercise9(HeperClass).pdb
+C:\Users\Dani\Desktop\DNP\Session2\Exercise9(HeperClass)\obj\Debug\netcoreapp2.1\Exercise9(HeperClass).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise9(HeperClass)\obj\Debug\netcoreapp2.1\Exercise9(HeperClass).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise9(HeperClass)\obj\Debug\netcoreapp2.1\Exercise9(HeperClass).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session2\Exercise9(HeperClass)\obj\Debug\netcoreapp2.1\Exercise9(HeperClass).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session2\Exercise9(HeperClass)\obj\Debug\netcoreapp2.1\Exercise9(HeperClass).dll
+C:\Users\Dani\Desktop\DNP\Session2\Exercise9(HeperClass)\obj\Debug\netcoreapp2.1\Exercise9(HeperClass).pdb

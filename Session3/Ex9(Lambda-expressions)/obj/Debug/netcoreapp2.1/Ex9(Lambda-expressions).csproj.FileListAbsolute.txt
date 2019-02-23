@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session3\Ex9(Lambda-expressions)\obj\Debug\netcoreapp2.1\Ex9(Lambda-expressions).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex9(Lambda-expressions)\obj\Debug\netcoreapp2.1\Ex9(Lambda-expressions).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex9(Lambda-expressions)\obj\Debug\netcoreapp2.1\Ex9(Lambda-expressions).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex9(Lambda-expressions)\obj\Debug\netcoreapp2.1\Ex9(Lambda-expressions).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session3\Ex9(Lambda-expressions)\bin\Debug\netcoreapp2.1\Ex9(Lambda-expressions).deps.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex9(Lambda-expressions)\bin\Debug\netcoreapp2.1\Ex9(Lambda-expressions).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex9(Lambda-expressions)\bin\Debug\netcoreapp2.1\Ex9(Lambda-expressions).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex9(Lambda-expressions)\bin\Debug\netcoreapp2.1\Ex9(Lambda-expressions).dll
+C:\Users\Dani\Desktop\DNP\Session3\Ex9(Lambda-expressions)\bin\Debug\netcoreapp2.1\Ex9(Lambda-expressions).pdb
+C:\Users\Dani\Desktop\DNP\Session3\Ex9(Lambda-expressions)\obj\Debug\netcoreapp2.1\Ex9(Lambda-expressions).dll
+C:\Users\Dani\Desktop\DNP\Session3\Ex9(Lambda-expressions)\obj\Debug\netcoreapp2.1\Ex9(Lambda-expressions).pdb

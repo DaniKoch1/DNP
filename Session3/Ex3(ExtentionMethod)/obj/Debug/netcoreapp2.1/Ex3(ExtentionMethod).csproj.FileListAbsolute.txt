@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session3\Ex3(ExtentionMethod)\bin\Debug\netcoreapp2.1\Ex3(ExtentionMethod).deps.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex3(ExtentionMethod)\bin\Debug\netcoreapp2.1\Ex3(ExtentionMethod).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex3(ExtentionMethod)\bin\Debug\netcoreapp2.1\Ex3(ExtentionMethod).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session3\Ex3(ExtentionMethod)\bin\Debug\netcoreapp2.1\Ex3(ExtentionMethod).dll
+C:\Users\Dani\Desktop\DNP\Session3\Ex3(ExtentionMethod)\bin\Debug\netcoreapp2.1\Ex3(ExtentionMethod).pdb
+C:\Users\Dani\Desktop\DNP\Session3\Ex3(ExtentionMethod)\obj\Debug\netcoreapp2.1\Ex3(ExtentionMethod).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex3(ExtentionMethod)\obj\Debug\netcoreapp2.1\Ex3(ExtentionMethod).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex3(ExtentionMethod)\obj\Debug\netcoreapp2.1\Ex3(ExtentionMethod).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session3\Ex3(ExtentionMethod)\obj\Debug\netcoreapp2.1\Ex3(ExtentionMethod).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session3\Ex3(ExtentionMethod)\obj\Debug\netcoreapp2.1\Ex3(ExtentionMethod).dll
+C:\Users\Dani\Desktop\DNP\Session3\Ex3(ExtentionMethod)\obj\Debug\netcoreapp2.1\Ex3(ExtentionMethod).pdb
